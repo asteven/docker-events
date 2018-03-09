@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Using nameko-docker instead.
+
+
+
 docker-events
 =============
 
